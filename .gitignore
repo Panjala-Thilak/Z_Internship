@@ -27,6 +27,7 @@ Spring/Spring/hibernate-release-5.4.30.Final/**
 ### NetBeans ###
 /nbproject/private/
 /build/
+/node_modules/
 /nbbuild/
 /dist/
 /nbdist/
