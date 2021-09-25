@@ -1,0 +1,6 @@
+com.zemoso.aopdemo.DemoConfig=org.springframework.stereotype.Component
+com.zemoso.aopdemo.aspect.MyApiAnalyticsAspect=org.springframework.stereotype.Component
+com.zemoso.aopdemo.aspect.MyCloudLogAspect=org.springframework.stereotype.Component
+com.zemoso.aopdemo.aspect.MyDemoLoggingAspect=org.springframework.stereotype.Component
+com.zemoso.aopdemo.dao.AccountDAO=org.springframework.stereotype.Component
+com.zemoso.aopdemo.dao.MembershipDAO=org.springframework.stereotype.Component
