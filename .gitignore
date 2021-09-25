@@ -1,0 +1,33 @@
+*.jar
+
+**.idea/**
+**lib/**
+Spring/Spring/mysql-connector-java-5.1.38/**
+Spring/Spring/mysql-connector-java-8.0.23/**
+Spring/Spring/hibernate-release-5.4.30.Final/**
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
