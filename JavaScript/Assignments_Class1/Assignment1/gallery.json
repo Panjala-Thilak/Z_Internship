@@ -1,0 +1,40 @@
+[
+    { 
+        "Image": "1.jpeg",
+        "Name":"Thilak",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27" 
+    },
+ 
+    {
+        "Image": "2.jpeg",
+        "Name":"lion",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27"
+    },
+  
+    {
+        "Image": "3.jpg",
+        "Name":"Bear",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27" 
+    },
+    {
+        "Image": "4.jpg",
+        "Name":"Bear",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27"   
+    },
+    {
+        "Image": "5.jpg",
+        "Name":"Bear",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27" 
+    },
+    {
+        "Image": "6.jpg",
+        "Name":"Bear",
+        "Information":"Picture Taken in Zoo",
+        "UploadedDate":"2020-04-27" 
+    }
+]
